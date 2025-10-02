@@ -1,2 +1,2 @@
 print("Hei Hei")
-print("Funker det nå?")
+print("Nå må det funke")
